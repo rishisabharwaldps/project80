@@ -1,0 +1,9 @@
+div{
+    margin: 10px;
+    width: 48%;
+}
+
+#show_paragraph1, #show_paragraph2{
+    margin: 10px;
+    width: 100%;
+}
